@@ -11,6 +11,6 @@ Perview: https://youtu.be/RRooW9BiZqY
 - Popisek itemů které jsou na zemi.
 
 # Instalace
-1. Přemístit složku "descriptions" z tého repozitáře do složky resources na svém serveru.
+1. Přemístit složku "description" z tého repozitáře do složky resources na svém serveru.
 2. Vynahradit veškeré soubory za ty nové z repozitáře.
 3. Hotovo!
