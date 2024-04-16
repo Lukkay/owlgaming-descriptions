@@ -2,6 +2,7 @@
 Úprava a dodatek descriptions pro OwlGaming MTA.
 
 Nějaký problém? Kontaktuj mě zde: https://discord.gg/rdngUwKUqr
+
 Perview: https://youtu.be/RRooW9BiZqY
 
 # Co se dodává:
